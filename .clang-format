@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+UseTab: Never
+TabWidth: 8
+IndentWidth: 8
+# AllowShortIfStatementsOnASingleLine: true
+# AllowShortLoopsOnASingleLine: true
+# NamespaceIndentation: All
+
+...
