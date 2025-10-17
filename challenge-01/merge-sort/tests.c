@@ -6,9 +6,6 @@
 
 int tests_run = 0;
 
-int foo = 7;
-int bar = 4;
-
 bool array_eq(double a[], double b[], size_t n)
 {
         for (int i = 0; i < n; ++i) {
